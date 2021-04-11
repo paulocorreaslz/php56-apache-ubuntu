@@ -1,1 +1,1 @@
-# php56-apache-ubuntu
+# php56-ubuntu
