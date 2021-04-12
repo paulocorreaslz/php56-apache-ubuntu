@@ -11,4 +11,3 @@ After container up
 Open your browser and type:
 
 http://localhost:7000
-
